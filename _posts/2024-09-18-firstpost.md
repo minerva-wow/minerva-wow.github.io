@@ -1,6 +1,6 @@
 ---
 title: 随时在vsc中插入时间
-date: 2023-09-18 13:56:08 +0800
+date: 2024-09-18 13:56:08 +0800
 categories: [extensions]
 tags: [date, vsc]     # TAG names should always be lowercase
 ---
@@ -11,4 +11,7 @@ tags: [date, vsc]     # TAG names should always be lowercase
 在设置（ctrl+, 快捷键）中搜索 Insert Date String 就可以找到了，常规的我们设置YYYY-MM-DD hh:mm:ss ZZZZ (最后表示时区)，其他格式可以参考扩展主页~
 
 又可以愉快的写博客了呢☆*: .｡. o(≧▽≦)o .｡.:*☆
+
+---
+忘记了说了，快捷输入日期的方式是 ctrl + shift + i 
 
