@@ -129,7 +129,7 @@ Key metrics to focus on:
 
 
 
-### Conclusion
+## Conclusion
 
 Fonts are a critical part of web design but can impact your site's performance if not handled carefully. By following best practices such as using modern formats, self-hosting, limiting font weights, and leveraging the `font-display` property, you can ensure a balance between aesthetics and performance.
 
