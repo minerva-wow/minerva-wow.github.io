@@ -1,5 +1,5 @@
 ---
-title: Introduction to Webpack and Optimization Strategies
+title:  Webpack and Optimization Introduction
 date: 2024-10-25 01:33:19 +0800
 categories: [front-end]
 tags: [webpack]     # TAG names should always be lowercase
