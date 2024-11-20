@@ -1,6 +1,6 @@
 ---
 title: Mobile Performance
-date: 2024-10-17 16:33:50 +0800
+date: 2022-10-17 16:33:50 +0800
 categories: [front-end]
 tags: [mobile, optimization, performance]
 ---

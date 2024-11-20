@@ -1,6 +1,6 @@
 ---
 title: Quickly Insert Date and Time in VS Code
-date: 2024-09-18 13:56:08 +0800
+date: 2021-09-18 13:56:08 +0800
 categories: [extensions]
 tags: [date, vsc]     # TAG names should always be lowercase
 ---
