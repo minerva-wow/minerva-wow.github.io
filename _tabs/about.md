@@ -17,6 +17,7 @@ I am Andrea, a passionate engineer and content creator with a background in EE &
 - **Front-End Development**: Creating intuitive user interfaces and responsive web applications
 
 Inspired by the incredible work of Fabrice Bellard, I aspire to follow in his footsteps and become a fraction of the innovator he is. 
+
 ## What You'll Find Here
 
 ### Embedded Systems
