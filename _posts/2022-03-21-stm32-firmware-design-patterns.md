@@ -1,8 +1,8 @@
 ---
 title: STM32 Firmware Design Patterns
 date: 2022-03-21 14:45:00 +0800
-categories: [embedded]
-tags: [stm32f10x, firmware, programming-techniques, system-configuration]
+categories: [Embedded, STM32]
+tags: [stm32, firmware, programming-techniques, system-configuration,embedded]
 ---
 This article explores essential design patterns and programming techniques commonly used in STM32F10x firmware development.
 
