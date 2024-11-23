@@ -14,6 +14,9 @@ tags: [videos, articles]
 
 4. [How do CRCs work?](https://www.youtube.com/watch?v=izG7qT0EpBw) - CRC (cyclic redundancy check) is one of the most common methods of error detection. It uses some interesting mathematical tricks to guarantee that it can catch certain kinds of errors. How does it work?
 
+5. [How USB Flash Drive Works?](https://www.youtube.com/watch?v=hy7_XC8hZ5c) - Whether you're a tech enthusiast or a casual user, this video will provide you with a deeper understanding of How USB Flash Drives Work and how to use them effectively. In this video, we'll explore the inner workings of USB flash drives and how they store and transfer data. We'll take a closer look at the various components of a USB flash drive, such as the NAND flash memory chips and the controller chip that manages data transfer.<br>
+We'll also discuss the basic working principle of USB flash drives, including how they use electrical impulses to write and read data from the NAND flash memory chips.
+
 ## Technical Articles
 1. [Quadratic Funding 平方募資](https://medium.com/swf-lab/quadratic-funding-465b5da3b3c9) - A deep dive into the Liberal Radical Mechanism proposed by Ethereum's co-founder, a Harvard economist, and Microsoft's principal researcher
 
