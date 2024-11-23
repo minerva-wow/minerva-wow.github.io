@@ -1,11 +1,9 @@
 ---
-title: Recommended Recent Science Videos/Technical Articles
+title: September Reading List Recommended
 date: 2022-09-23 08:52:39 +0800
 categories: [ReadingList]
 tags: [videos, articles]
 ---
-
-# September Reading List
 
 ## Science Videos
 1. [Capacitors are terrible at remembering data. But for this reason we continue doing it](https://www.youtube.com/watch?v=7WnbIeMgWYA) - In this episode we discuss about Dynamic RAM, and learn about all the fundamental-level challenges that makes it slow compared to Static RAM.
