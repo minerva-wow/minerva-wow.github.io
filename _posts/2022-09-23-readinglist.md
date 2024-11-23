@@ -14,6 +14,8 @@ tags: [videos, articles]
 
 3. [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4) - I was contacted to hack a Trezor One hardware wallet and recover $2 million worth of cryptocurrency (in the form of THETA). Knowing that existing research was already out there for this device, it seemed like it would be a slam dunk. Little did I realize the project would turn into a roller coaster ride with over three months of experimentation, failures, successes, and heart-stopping moments. It reminded me that hacking is always unpredictable, exciting, and educational, no matter how long you've been doing it. In this case, the stakes were higher than normal: I only had one chance to get it right. 
 
+4. [How do CRCs work?](https://www.youtube.com/watch?v=izG7qT0EpBw) - CRC (cyclic redundancy check) is one of the most common methods of error detection. It uses some interesting mathematical tricks to guarantee that it can catch certain kinds of errors. How does it work?
+
 ## Technical Articles
 1. [Quadratic Funding 平方募資](https://medium.com/swf-lab/quadratic-funding-465b5da3b3c9) - A deep dive into the Liberal Radical Mechanism proposed by Ethereum's co-founder, a Harvard economist, and Microsoft's principal researcher
 
