@@ -1,5 +1,5 @@
 ---
-title: From Clunky to Clean: Refactoring a JavaScript Image Toggle
+title: From Clunky to Clean - Refactoring a JavaScript Image Toggle
 date: 2023-11-26 01:30:11 +0800
 categories: [front-end,js] 
 tag: [refactoring,js]
