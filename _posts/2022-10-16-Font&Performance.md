@@ -1,7 +1,7 @@
 ---
 title: Fonts and Performance
 date: 2022-10-16 22:24:45 +0800
-categories: [front-end]
+categories: [front-end, performance]
 tags: [fonts, optimization]    
 ---
 When building modern websites, fonts play a crucial role in how your content is perceived. However, including custom fonts, especially external fonts, can negatively impact performance. This guide will help you decide whether to include external fonts and how to do so with the least impact on your site's performance.

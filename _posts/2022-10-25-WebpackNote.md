@@ -1,7 +1,7 @@
 ---
 title: Webpack and Optimization Introduction
 date: 2022-10-25 01:33:19 +0800
-categories: [front-end]
+categories: [front-end, tools]
 tags: [webpack]     # TAG names should always be lowercase
 ---
 

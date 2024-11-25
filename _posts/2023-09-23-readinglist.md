@@ -1,6 +1,6 @@
 ---
 title: September Reading List Recommended
-date: 2022-09-23 08:52:39 +0800
+date: 2023-09-23 08:52:39 +0800
 categories: [ReadingList]
 tags: [videos, articles]
 ---

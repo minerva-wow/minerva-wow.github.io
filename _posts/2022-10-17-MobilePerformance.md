@@ -1,8 +1,8 @@
 ---
 title: Mobile Performance
 date: 2022-10-17 16:33:50 +0800
-categories: [front-end]
-tags: [mobile, optimization, performance]
+categories: [front-end, performance]
+tags: [mobile, optimization]
 ---
 
 With web access on mobile devices becoming increasingly prevalent, ensuring optimal performance is more critical than ever. Mobile platforms now offer full-featured web browsers, but they often come with constraints like limited bandwidth, reduced CPU power, and limited battery life. This guide explores key strategies and best practices for improving mobile-specific performance, ensuring that your web content is fast, efficient, and user-friendly.
