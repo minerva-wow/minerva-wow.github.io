@@ -214,6 +214,7 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - "_posts/TEMPLATE.md"  # 排除模板文件
 
 jekyll-archives:
   enabled: [categories, tags]
