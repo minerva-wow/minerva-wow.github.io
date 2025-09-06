@@ -6,23 +6,18 @@ title: About
 layout: page
 ---
 
-Welcome to my blog! Here, I share insights on technology, lifestyle, and personal growth.
+Welcome to my blog! Here, I share insights on technology, engineering, and innovation.
 
 ## About Me
 
-I'm Andrea, an engineer and content creator with a background in Electrical Engineering and Computer Science. My areas of expertise include:
+I'm Andrea, an engineer and content creator passionate about building things that matter. My expertise spans:
 
-- **Embedded Systems**: Specializing in STM32 microcontrollers and real-time systems
-- **Blockchain & Fintech**: Innovating in cryptocurrency and digital payments
-- **Front-End Development**: Building intuitive and responsive web applications
+* **Embedded Systems**: STM32 microcontrollers and real-time applications
+* **Blockchain & Fintech**: Cryptocurrency protocols and digital payment solutions  
+* **Full-Stack Development**: React/Next.js frontends, Node.js/Go backends, and React Native mobile apps
 
-Inspired by the work of Fabrice Bellard, I strive to innovate and contribute to the tech community.
+Inspired by innovators like Fabrice Bellard, I believe in pushing the boundaries of what's possible through code.
 
-<!-- Feel free to connect with me on [GitHub](https://github.com/yourusername) and [LinkedIn](https://www.linkedin.com/in/yourusername). Join the discussions in the comments and share your insights! -->
+Thanks for stopping by – I hope you find something useful here!
 
-Thank you for visiting! I hope you find the content helpful and inspiring.
-
-
----
-
-_Stay curious, stay innovative!_
+*Stay curious, stay innovative!*
